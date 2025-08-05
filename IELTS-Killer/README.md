@@ -6,11 +6,11 @@ Personal preparation record for IELTS.
 
 ### EOR Result:
 
-![](https://github.com/i0Ek3/IELTS-Plan/blob/main/images/eor.jpg)
+![](https://github.com/i0Ek3/IELTS-PTE-Killer/IELTS-Killer/blob/main/images/eor.jpg)
 
 ### Stage One Score(First time): 😂
 
-![](https://github.com/i0Ek3/IELTS-Plan/blob/main/images/before.jpg)
+![](https://github.com/i0Ek3/IELTS-PTE-Killer/IELTS-Killer/blob/main/images/before.jpg)
 
 ## Structure
 
@@ -34,7 +34,7 @@ There are two ways to take the exam: computer-based and paper-based. The compute
 
 ## How
 
-![](https://github.com/i0Ek3/IELTS-Plan/blob/main/images/how.jpg)
+![](https://github.com/i0Ek3/IELTS-PTE-Killer/IELTS-Killer/blob/main/images/how.jpg)
 
 ## Sample Questions
 
