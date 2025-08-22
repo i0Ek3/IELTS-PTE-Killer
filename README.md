@@ -1,3 +1,5 @@
-# IELTS-PTE-Killer
+# English-Killer
 
-个人备考 IELTS 和 PTE 的记录，参加的都是 Academic，有需要的可以参考。
+个人备考英语能力测试（IELTS、PTE、CCL）的记录，有需要的可以参考。
+
+PTE 的性价比远高于 CCL，所以优先考到 PTE 八炸。
